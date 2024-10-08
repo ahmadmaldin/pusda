@@ -1,42 +1,33 @@
 # Features this App
 
-Nama Aplikasi :
+Nama Aplikasi : Disarpus
 
 Kelompok :
 
 ## Pengguna
 
 1. Admin
-2. Pegawai
-3. Siswa (users)
+2. user
 
 ## Menu
 
 **Untuk Pengguna 1(Admin)**
 
-- login
-- user
-- users
-- pegawai
-- seminar
-- nilai
-- logout
-- backup db
+- beranda
+- manajemen buku
+- manajemen anggota
+- manajemen lransaksi
+- statistik & laporan
+- pengaturan sistem
+- bantuan & dukungan
 
-**Untuk Pengguna 2(Pegawai)**
+**Untuk Pengguna 2(Umum/Mahasiswa/Siswa)**
 
-- login
-- user
-- profile (ubah username & password)
-- seminar
-- nilai
-- Logout
+- beranda
+- pencarian buku
+- daftar buku
+- manajemen akun
 
-**Untuk Pengguna 3(Users/Siswa)**
-
-- login
-- daftar
-- seminar
 
 ## Fitur
 
@@ -59,8 +50,7 @@ Kelompok :
 - user-ubah.php 1.3.1 (V)
 - user-perbaharui.php 1.3.2 (P)
 
-4. Seminar
-
+4. 
 - seminar-tampil.php (V)
 - seminar-detail.php (V)
 - seminar-print.php (V)
