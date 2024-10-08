@@ -1,13 +1,18 @@
 # Features this App
 
-Nama Aplikasi : Disarpus
-
+Nama Aplikasi : LibriHub
 Kelompok :
+1. Andi Nugraha
+2. Chelsy Anggraeni
+3. Muhammad Aris
+4. Nursiti Barokah
+5. Raissa Meilani
 
 ## Pengguna
 
 1. Admin
-2. user
+2. User
+3. anggota
 
 ## Menu
 
@@ -21,7 +26,7 @@ Kelompok :
 - pengaturan sistem
 - bantuan & dukungan
 
-**Untuk Pengguna 2(Umum/Mahasiswa/Siswa)**
+**Untuk Pengguna 2(User)**
 
 - beranda
 - pencarian buku
