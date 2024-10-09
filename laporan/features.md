@@ -11,27 +11,32 @@ Kelompok :
 ## Pengguna
 
 1. Admin
-2. User
-3. anggota
+2. anggota
+3.
 
 ## Menu
 
 **Untuk Pengguna 1(Admin)**
 
-- beranda
-- manajemen buku
-- manajemen anggota
-- manajemen lransaksi
-- statistik & laporan
-- pengaturan sistem
-- bantuan & dukungan
+- Dashboard Admin
+- Manajemen Anggota
+- Manajemen Buku
+- Manajemen Peminjaman
+- Manajemen Katalog
+- Laporan dan Statistik
+- Pengaturan Sistem
 
-**Untuk Pengguna 2(User)**
+**Untuk Pengguna 2(anggota)**
 
-- beranda
-- pencarian buku
-- daftar buku
-- manajemen akun
+- Dashboard Anggota
+- Pencarian Buku
+- Peminjaman Buku
+- Pengembalian Buku
+- Profil Anggota
+- Notifikasi
+
+**Untuk Pengguna 3()**
+- 
 
 
 ## Fitur
@@ -56,15 +61,11 @@ Kelompok :
 - user-perbaharui.php 1.3.2 (P)
 
 4. 
-- seminar-tampil.php (V)
-- seminar-detail.php (V)
-- seminar-print.php (V)
-- seminar-aktivasi.php (V)
-- seminar-aktifkan.php (P)
+- 
 
-5. Nilai
+5. 
 
-- nilai-tampil.php (V)
+- 
 
 6. Logout
 
@@ -74,7 +75,7 @@ Kelompok :
 
 - backup.php (P)
 
-**Untuk Pengguna 2(Pegawai)**
+**Untuk Pengguna 2(anggota)**
 
 1. Login
 
