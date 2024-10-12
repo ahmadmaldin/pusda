@@ -12,31 +12,25 @@ Kelompok :
 
 1. Admin
 2. anggota
-3.
 
 ## Menu
 
 **Untuk Pengguna 1(Admin)**
 
-- Dashboard Admin
-- Manajemen Anggota
-- Manajemen Buku
-- Sirkulasi
-- Manajemen Katalog
-- Laporan dan Statistik
-- Pengaturan Sistem
-
-**Untuk Pengguna 2(anggota)**
-
-- Dashboard Anggota
-- Pencarian Buku
-- Peminjaman Buku
-- Pengembalian Buku
-- Profil Anggota
-- Notifikasi
-
-**Untuk Pengguna 3()**
-- 
+- menu utama
+- daftar anggota
+- entri anggota
+- daftar buku
+- entri buku
+- sirkulasi
+- entri peminjaman buku
+- entri pengembalian buku
+- entri perpanjangan buku
+- katalog
+- daftar peminjaman buku
+- daftar pengembalian buku
+- daftar perpanjangan buku
+- pengaturan sistem
 
 
 ## Fitur
@@ -48,26 +42,46 @@ Kelompok :
 - login.php 1.1.1 (V)
 - cek-login.php 1.1.2 (P)
 
-2. user
+2. Daftar Buku
 
-- user-hapus.php 1.2.1 (P)
-- user-tampil.php 1.2.2 (V)
-- user-ubah.php (V)
-- user-perbaharui.php (P)
+- buku-tampil.php 1.2.1 (V)
+- buku-tambah.php 1.2.2 (P)
+- buku-ubah.php 1.2.3 (V)
+- buku-perbaharui.php 1.2.4 (P)
+- buku-hapus.php 1.2.5 (P)
 
-3. Profile
+3. Daftar Anggota
 
-- user-ubah.php 1.3.1 (V)
-- user-perbaharui.php 1.3.2 (P)
+- anggota-tampil.php 1.3.1 (V)
+- anggota-tambah.php 1.3.2 (P)
+- anggota-ubah.php 1.3.3 (V)
+- anggota-perbaharui.php 1.3.4 (P)
+- anggota-hapus.php 1.3.5 (P)
 
-4. 
-- 
+4. Peminjaman Buku
 
-5. 
+- peminjaman-tampil.php 1.4.1 (V)
+- peminjaman-tambah.php 1.4.2 (P)
+- peminjaman-ubah.php 1.4.3 (V)
+- peminjaman-perbaharui.php 1.4.4 (P)
 
-- 
+5. Pengembalian Buku 
 
-6. Logout
+- pengembalian-tampil.php 1.5.1 (V)
+- pengembalian-tambah.php 1.5.2 (P)
+- pengembalian-ubah.php 1.5.3 (V)
+- pengembalian-perbaharui.php 1.5.4 (P)
+
+6. Perpanjangan Buku 
+
+- perpanjangan-tampil.php 1.6.1 (V)
+- perpanjangan-tambah.php 1.6.2 (P)
+- perpanjangan-ubah.php 1.6.3 (V)
+- perpanjangan-perbaharui.php 1.6.4 (P)
+- perpanjangan-hapus.php 1.6.5 (P)
+
+7. 
+8. Logout
 
 - logout.php (P)
 
@@ -82,10 +96,6 @@ Kelompok :
 - login.php 1.1.1 (V)
 - cek-login.php 1.1.2 (P)
 
-2. user
-
-- user-ubah.php (V)
-- user-perbaharui.php (P)
 
 ### Keterangan
 
