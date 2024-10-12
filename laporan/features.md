@@ -21,7 +21,7 @@ Kelompok :
 - Dashboard Admin
 - Manajemen Anggota
 - Manajemen Buku
-- Manajemen Peminjaman
+- Sirkulasi
 - Manajemen Katalog
 - Laporan dan Statistik
 - Pengaturan Sistem
